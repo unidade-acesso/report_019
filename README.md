@@ -6,9 +6,9 @@ owner: "CM Alcobaça"         # Entre as aspas escrever o nome do owner do websi
 seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# Sítio Autárquico - Câmara Municipal de Alcobaça
 
-- Data de criação: Sítio Autárquico - Câmara Municipal de Alcobaça
+- Data de criação: 24/02/2026
 - URL: https://www.cm-alcobaca.pt/
 - Propriedade: CM Alcobaça
 - Candidatura: Bronze
