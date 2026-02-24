@@ -8,10 +8,10 @@ seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata o
 
 # {{ page.website }}
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: Sítio Autárquico - Câmara Municipal de Alcobaça
+- URL: https://www.cm-alcobaca.pt/
+- Propriedade: CM Alcobaça
+- Candidatura: Bronze
 
 ## Relatório de Auditoria
 
